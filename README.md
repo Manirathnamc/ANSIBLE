@@ -1,2 +1,5 @@
 # ANSIBLE
-Write ansible script to install GIT, JENKINS, DOCKER, KUBERNETES AND NAGIOS
+Install Ansible in centos
+1)yum update -y
+2)yum install epel-release
+3)yum install ansible
